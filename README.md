@@ -11,5 +11,7 @@ Research project: Incremental ML Algorithms for handling dynamic data
 
 #### Incremental Algorithms  
 
-* Algorithm 01:
-  iKNNOD: Iterative KNNOD using KD-Tree 
+* Algorithm 01:  
+  iKNNOD: Iterative KNNOD using KD-Tree   
+
+  

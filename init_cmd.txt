@@ -1,0 +1,15 @@
+===================================================
+|     SET OF COMMAND LINES TO EXECUTE PROGRAMS    |
+===================================================
+
+1) create environment
+
+$ python -m venv lib_env
+
+2) activate the environment
+
+$ .\lib_env\Scripts\activate
+
+3) install the required libraries
+
+$ pip install -r requirements.txt
